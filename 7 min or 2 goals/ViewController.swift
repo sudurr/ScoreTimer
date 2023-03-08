@@ -1,7 +1,6 @@
 
 //  ViewController.swift
 //  7 min or 2 goals
-//
 //  Created by Судур Сугунушев on 07.05.2020.
 //  Copyright © 2020 Sudur Sugunushev. All rights reserved.
 
